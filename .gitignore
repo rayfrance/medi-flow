@@ -1,0 +1,17 @@
+# Pastas de Build 
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de usuário e configuração local do Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos de ambiente e logs
+.env
+*.log
+
+# Pastas de pacotes 
+packages/
